@@ -5,6 +5,6 @@ public class IntegerTypeCasting {
         long first = 1000;
         int second = 0;
         second = (int) first;
-        System.out.println(first + "" + second);
+        System.out.println(first + "\n" + second);
     }
 }
